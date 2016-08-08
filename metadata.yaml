@@ -1,0 +1,32 @@
+_repo: Publications-of-the-Scottish-History-Society-Volume-36--13-Journals-of-Sir-John-Lauder-Lord-F__12930
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fountainhall, John Lauder, Lord
+    aliases:
+    - Lauder, John, Lord Fountainhall
+    - Lauder, Sir John
+    birthdate: 1646
+    deathdate: 1722
+    gutenberg_agent_id: '4721'
+    url: http://www.gutenberg.org/2009/agents/4721
+description: ''
+gutenberg_issued: '2004-07-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12930'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fountainhall, John Lauder, Lord, 1646-1722 -- Diaries'
+- !lcsh 'Great Britain -- Description and travel'
+- !lcsh 'Judges -- Great Britain -- Diaries'
+- !lcsh 'France -- Description and travel'
+- !lcc 'DA'
+- GITenberg
+title: "Publications of the Scottish History Society, Volume 36\r\nJournals of Sir\
+  \ John Lauder Lord Fountainhall with His Observations on Public Affairs and Other\
+  \ Memoranda 1665-1676"
+url: http://www.gutenberg.org/ebooks/12930
